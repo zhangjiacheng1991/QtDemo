@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/background1.jpg</file>
+        <file>img/background2.jpg</file>
+        <file>img/background3.jpg</file>
+        <file>img/background4.jpg</file>
+        <file>img/background5.jpg</file>
+        <file>img/enemy.png</file>
+        <file>img/plane.png</file>
+        <file>img/plane2.png</file>
+        <file>img/radiation.png</file>
+        <file>img/accedent.png</file>
+        <file>img/cloud1.png</file>
+        <file>img/cloud2.png</file>
+        <file>img/bullet.png</file>
+        <file>img/bulletLight.png</file>
+        <file>img/airplane1.png</file>
+        <file>img/enemy1.png</file>
+        <file>img/bullet1.png</file>
+    </qresource>
+</RCC>
