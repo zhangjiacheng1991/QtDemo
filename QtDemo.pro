@@ -1,3 +1,8 @@
 TEMPLATE = subdirs
 
-SUBDIRS +=AirplaneBattle
+SUBDIRS +=AirplaneBattle \
+    Q2048
+
+
+
+
